@@ -1,0 +1,3 @@
+include ':UriUtils'
+include ':app'
+rootProject.name = "UriUtilsExample"
